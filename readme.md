@@ -16,7 +16,7 @@ Please cite our paper if you find our work useful for your research:
 @article{xu2023vra,
   title={VRA: Variational Rectifed Activation for Out-of-distribution Detection},
   author={Xu, Mingyu and Lian, Zheng and Liu, Bin and Tao, Jianhua},
-  journal={NeurIPS},
+  journal={Advances in Neural Information Processing Systems (NeurIPS)},
   year={2023}
 }
 ```
