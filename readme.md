@@ -7,7 +7,7 @@ Correspondence to:
   - Zheng Lian (lianzheng2016@ia.ac.cn)
 
 ## Paper
-[**VRA: Variational Rectifed Activation for Out-of-distribution Detection  **](https://arxiv.org/pdf/2302.11716.pdf)<br>
+[**VRA: Variational Rectifed Activation for Out-of-distribution Detection**](https://arxiv.org/pdf/2302.11716.pdf)<br>
 Mingyu Xu, Zheng Lian, Bin Liu, Jianhua Tao<br>
 
 Please cite our paper if you find our work useful for your research:
